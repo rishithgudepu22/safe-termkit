@@ -1,0 +1,14 @@
+{
+  "hsToolsmith": true,
+  "title": "safe-termkit",
+  "pitch": "Generate SAFE notes, cap tables, and dilution reports from structured financing inputs.",
+  "language": "python",
+  "category": "Developer Tools",
+  "keyFeatures": [
+    "SAFE variants (post-money, pre-money, MFN) payoff and conversion modeling",
+    "Cap table engine with option pool, pro-rata, and priced-round conversion",
+    "Deterministic dilution reports (JSON + PDF/Markdown render helpers)",
+    "Input validation and scenario comparison (best/base/worst) helpers"
+  ],
+  "targetUsers": "FinTech and startup-software developers who need programmable SAFE/term-sheet and dilution math in backend services."
+}
